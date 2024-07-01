@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **webapp development**
 
-- 📫 How to reach me **jinan@gmail.com**
+- 📫 How to reach me **jinank684@gmail.com**
 
 - ⚡ Fun fact **Living the dream as a developer: where "quick fix" means an all-nighter, "deadline" is a daily reminder of mortality, and bugs are our ever-loyal companions. Welcome to the glamorous chaos of coding life! 💻🚀**
 
