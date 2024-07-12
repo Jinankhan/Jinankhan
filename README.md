@@ -1,11 +1,10 @@
-<h1 align="center">Hi 👋, I'm Jinan</h1>
+<h1 align="center">Hi 👋, I'm JJ</h1>
 <h3 align="center">A passionate full-stack developer from India</h3>
 
 - 👨‍💻 All of my projects are available at [https://jinankhan.vercel.app/](https://jinankhan.vercel.app/)
 
 - 💬 Ask me about **webapp development**
 
-- 📫 How to reach me **jinank684@gmail.com**
 
 - ⚡ Fun fact **Living the dream as a developer: where "quick fix" means an all-nighter, "deadline" is a daily reminder of mortality, and bugs are our ever-loyal companions. Welcome to the glamorous chaos of coding life! 💻🚀**
 
